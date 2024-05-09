@@ -110,7 +110,7 @@ export default function Index() {
     <Page>
       <ui-title-bar title="Remix app template">
         <button variant="primary" onClick={generateProduct}>
-          Generate a product
+          Generate a gift-card
         </button>
       </ui-title-bar>
       <BlockStack gap="500">
@@ -120,7 +120,7 @@ export default function Index() {
               <BlockStack gap="500">
                 <BlockStack gap="200">
                   <Text as="h2" variant="headingMd">
-                    Congrats on creating a new Shopify app 🎉
+                    Congrats on creatijnp 🎉
                   </Text>
                   <Text variant="bodyMd" as="p">
                     This embedded app template uses{" "}
@@ -166,7 +166,7 @@ export default function Index() {
                 </BlockStack>
                 <InlineStack gap="300">
                   <Button loading={isLoading} onClick={generateProduct}>
-                    Generate a product
+                    Generate a gift-card
                   </Button>
                   {actionData?.product && (
                     <Button

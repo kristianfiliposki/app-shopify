@@ -3,7 +3,7 @@
 client_id = "67b99430fc98bcff130c7a7fd430a21c"
 name = "gift-card"
 handle = "gift-card-41"
-application_url = "https://muscle-postal-man-employers.trycloudflare.com"
+application_url = "https://bridge-neighbors-moore-module.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://muscle-postal-man-employers.trycloudflare.com/auth/callback",
-  "https://muscle-postal-man-employers.trycloudflare.com/auth/shopify/callback",
-  "https://muscle-postal-man-employers.trycloudflare.com/api/auth/callback"
+  "https://bridge-neighbors-moore-module.trycloudflare.com/auth/callback",
+  "https://bridge-neighbors-moore-module.trycloudflare.com/auth/shopify/callback",
+  "https://bridge-neighbors-moore-module.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
